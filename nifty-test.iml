@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: lessvoid:nifty:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: xpp3:xpp3:1.1.4c" level="project" />
+    <orderEntry type="library" name="Maven: org.bushe:eventbus:1.4" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.jglfont:jglfont-core:1.4" level="project" />
+    <orderEntry type="library" name="Maven: lessvoid:nifty-default-controls:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: lessvoid:nifty-style-black:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: lessvoid:nifty-lwjgl-renderer:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl.lwjgl:lwjgl:2.9.1" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl.lwjgl:lwjgl-platform:natives-windows:2.9.1" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl.lwjgl:lwjgl-platform:natives-linux:2.9.1" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl.lwjgl:lwjgl-platform:natives-osx:2.9.1" level="project" />
+    <orderEntry type="library" name="Maven: net.java.jinput:jinput:2.0.5" level="project" />
+    <orderEntry type="library" name="Maven: net.java.jutils:jutils:1.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: net.java.jinput:jinput-platform:natives-linux:2.0.5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: net.java.jinput:jinput-platform:natives-windows:2.0.5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: net.java.jinput:jinput-platform:natives-osx:2.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl.lwjgl:lwjgl_util:2.9.1" level="project" />
+    <orderEntry type="library" name="Maven: lessvoid:nifty-openal-soundsystem:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: ibxm:ibxm:unknown" level="project" />
+    <orderEntry type="library" name="Maven: com.projectdarkstar.ext.jorbis:jorbis:0.0.17" level="project" />
+    <orderEntry type="library" name="Maven: lessvoid:nifty-pauls-soundsystem:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: com.paulscode.soundsystem:soundsystem:0.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.paulscode.soundsystem:codecjorbis:0.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.paulscode.soundsystem:codecwav:0.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.paulscode.soundsystem:libraryjavasound:0.0.1" level="project" />
+    <orderEntry type="library" name="Maven: lessvoid:nifty-lwjgl-slick-renderer:1.3" level="project" />
+    <orderEntry type="library" name="Maven: lwjgl:lwjgl:2.6" level="project" />
+    <orderEntry type="library" name="Maven: lwjgl:jinput:2.6" level="project" />
+    <orderEntry type="library" name="Maven: lwjgl:lwjgl-util:2.6" level="project" />
+    <orderEntry type="library" name="Maven: slick:slick:20101219" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.1" level="project" />
+  </component>
+</module>
+
